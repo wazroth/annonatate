@@ -37,6 +37,17 @@ order: 1
             },
             "created": "2021-06-15T18:32:47.901Z",
             "modified": "2021-06-15T18:32:48.506Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Yards",
+            "purpose": "tagging",
+            "creator": {
+                "id": "wazroth",
+                "name": "wazroth"
+            },
+            "created": "2021-06-15T18:32:54.979Z",
+            "modified": "2021-06-15T18:32:55.796Z"
         }
     ],
     "target": {
