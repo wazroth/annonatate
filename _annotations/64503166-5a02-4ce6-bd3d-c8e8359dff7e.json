@@ -15,6 +15,28 @@ order: 1
             },
             "created": "2021-06-15T18:31:33.848Z",
             "modified": "2021-06-15T18:31:38.956Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "This is a reply",
+            "purpose": "commenting",
+            "creator": {
+                "id": "wazroth",
+                "name": "wazroth"
+            },
+            "created": "2021-06-15T18:32:36.778Z",
+            "modified": "2021-06-15T18:32:38.729Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Bricks",
+            "purpose": "tagging",
+            "creator": {
+                "id": "wazroth",
+                "name": "wazroth"
+            },
+            "created": "2021-06-15T18:32:47.901Z",
+            "modified": "2021-06-15T18:32:48.506Z"
         }
     ],
     "target": {
